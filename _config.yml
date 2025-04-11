@@ -48,7 +48,7 @@ links:
     macos: https://github.com/QB64-Phoenix-Edition/QB64pe/releases/download/v$version/qb64pe_osx-$version.tar.gz
     linux: https://github.com/QB64-Phoenix-Edition/QB64pe/releases/download/v$version/qb64pe_lnx-$version.tar.gz
   integrations:
-    vscode: https://www.youtube.com/watch?v=6kn-N_-eycg
+    vscode: https://open-vsx.org/extension/grymmjack/qb64pe
     notepadplusplus: https://qb64phoenix.com/forum/showthread.php?tid=86&highlight=notepad%2B%2B
 
 # Build settings
